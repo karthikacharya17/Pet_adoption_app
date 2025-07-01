@@ -3,7 +3,7 @@ Running Projects:<br>
 Clean project:<br> Flutter clean<br>
 Get all dependency:<br>Flutter pub get<br>
 Running project:<br>
-Click on start debugging or type FLutter run<br>
+Click on start debugging or type Flutter run<br>
 
 
 Note:<br>
