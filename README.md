@@ -1,5 +1,4 @@
 # pet_adaption_app
-A new Flutter project.
 Running Projects:<br>
 Clean project:<br> Flutter clean<br>
 Get all dependency:<br>Flutter pub get<br>
