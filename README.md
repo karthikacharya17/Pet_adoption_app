@@ -1,6 +1,21 @@
 # pet_adaption_app
-
 A new Flutter project.
+Running Projects:<br>
+Clean project:<br> Flutter clean<br>
+Get all dependency:<br>Flutter pub get<br>
+Running project:<br>
+Click on start debugging or type FLutter run<br>
+
+
+Note:<br>
+If you get conflicts while regenerating <br>
+run This code<br>
+flutter packages pub run build_runner build --delete-conflicting-outputs
+
+
+
+
+
 
 ## Getting Started
 
