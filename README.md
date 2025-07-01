@@ -1,5 +1,5 @@
 # pet_adaption_app
-All Animation are added in history and favorite screen (before updating lists)
+All Animation are added in history and favorite screen (before updating)<br>
 Running Projects:<br>
 Clean project:<br> Flutter clean<br>
 Get all dependency:<br>Flutter pub get<br>
