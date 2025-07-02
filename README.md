@@ -11,6 +11,8 @@ Note:<br>
 If you get conflicts while regenerating <br>
 run This code<br>
 flutter packages pub run build_runner build --delete-conflicting-outputs
+features<br>
+pet’s image cantain interactive viewer where you can zooming in and out.
 
 
 
